@@ -60,7 +60,7 @@
 ## Установка
 1. Клонування репозиторію:
 ```bash
-   git clone <URL>
+   git clone https://github.com/ManFromLviv/basics_of_smart_technologies_and_systems_pr_1_to5
    ```
 2. Перехід до папки проекту:
 ```bash
