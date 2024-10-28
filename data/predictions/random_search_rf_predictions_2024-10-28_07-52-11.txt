@@ -1,0 +1,10 @@
+Звіт метрик для: data/predictions/random_search_rf_predictions_2024-10-28_07-52-11.csv
+              precision    recall  f1-score   support
+
+           0       1.00      0.84      0.91        19
+           1       0.93      0.93      0.93        14
+           2       0.81      1.00      0.90        13
+
+    accuracy                           0.91        46
+   macro avg       0.91      0.92      0.91        46
+weighted avg       0.93      0.91      0.91        46
